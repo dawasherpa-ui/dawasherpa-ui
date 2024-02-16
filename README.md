@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dawa Sherpa</h1>
 <h3 align="center">A passionate FullStackDev.(Seeking for knowledge)</h3>
 <div style="width:100vw;display:grid;place-items:center">
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" style="width:70vw" >
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" style="width:60vw" >
 </div>
 - 📫 How to reach me **jamudawa22@gmail.com**
 
