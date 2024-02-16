@@ -1,7 +1,7 @@
 
 [![MasterHead](https://maruf001-mt.github.io/Premium-Delivery/web.gif)](http://primeit.elementfx.com)
 <h1 align="center">Hi 👋, I'm Dawa Sherpa</h1>
-<h3 align="center">A passionate FullStackDev.(Seeking for knowledge)</h3>
+<h3 align="center">A passionate FullStackDev.</h3>
 - 📫 How to reach me **jamudawa22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
